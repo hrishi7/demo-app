@@ -1,4 +1,4 @@
 
-function verifyUser(){
+const verifyUser = () =>{
     console.log("authenticating user")
 }
